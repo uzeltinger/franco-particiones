@@ -30,7 +30,7 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 <noscript>
 <link rel="stylesheet" type="text/css" href="css/noscript.css" />
 </noscript>
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 		
 <link rel="stylesheet" type="text/css" href="css/new/demo.css" />
 <link rel="stylesheet" type="text/css" href="css/new/common.css" />
@@ -40,9 +40,10 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
 </head>
 <body>
+  
 <div class="header">
   <div class="logo">
-    <div class="cajaLogo"><img src="img/logo.jpg" width="281" height="147" border="0" /></div>
+    <div class="cajaLogo"><img src="img/logo.jpg" width="281" height="147" /></div>
     <div class="slogan">
     	<div class="menuMain">
         <div class="cajaMenu"><a href="contacto/">CONTACTO</a></div>
