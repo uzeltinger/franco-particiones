@@ -21,7 +21,7 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 <meta name="description" content="Particiones S.A. fabrica y comercializa separadores de fibra sólida de papel reciclado para la industria del vino, aceite, y otras. Contacto: +562 2739 1153" />
 <meta name="keywords" content="Separadores, Tabiques, Particiones, Embalaje, Fibra sólida, Partitions, Box partitions,Fiber partitions " />
 
-<link href="assets/css/estilos.css" rel="stylesheet" type="text/css" />
+<link href="css/estilos.css" rel="stylesheet" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Muli:300,400' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,800' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -35,6 +35,8 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 <!--<link rel="stylesheet" type="text/css" href="css/new/demo.css" />-->
 <link rel="stylesheet" type="text/css" href="css/new/common.css" />
 <link rel="stylesheet" type="text/css" href="css/new/style5.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/estilos.php" />
+
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
 <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
