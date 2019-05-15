@@ -32,7 +32,7 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 </noscript>
 <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 		
-<link rel="stylesheet" type="text/css" href="css/new/demo.css" />
+<!--<link rel="stylesheet" type="text/css" href="css/new/demo.css" />-->
 <link rel="stylesheet" type="text/css" href="css/new/common.css" />
 <link rel="stylesheet" type="text/css" href="css/new/style5.css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
@@ -174,9 +174,6 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
 <div class="redes">
   <div class="redes_int">
     <!--<div class="cajaRedes" style="margin-right:25px"><a href="youtube" target="_blank"><img class="fade" src="img/youtube.png" width="68" height="68" alt="Vea nuestro canal de Youtube" /></a></div>-->
-    <div class="cajaRedes"><a href="javascript:void(0);"><img class="fade" src="img/skype.png" width="68" height="68" alt="Skype" title="Agréguenos en Skype"/></a></div>
-    <div class="cajaRedes"><a href="linkedin" target="_blank"><img class="fade" src="img/linkedin.png" width="68" height="68" alt="Linkedin" title="Búsquenos en Linkedin"/></a></div>
-    <div class="cajaRedes"><a href="https://www.facebook.com/people/Particiones-SA/100006811399122" target="_blank"><img class="fade" src="img/face.png" width="68" height="68" alt="Facebook" title="Síganos en Facebook" /></a></div>
     <div class="cajaRedes2"><a href="servicio/iso9001.html"><img src="img/iso_footer.png" width="159" height="117" /></a></div>
   </div>
 </div>
